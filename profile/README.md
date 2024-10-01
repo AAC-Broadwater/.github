@@ -2,6 +2,10 @@
 
 We're a Scout Campsite located in Meriden, Coventry. We're the County of Warwickshire's Official Campsite, and we're situated in the heart of the country with connections to most of the UK via the M42 and A45.
 
+# Where can I find out more?
+
+You can find out more by visiting our website at [alfrey.org.uk](https://alfrey.org.uk). If you wish to make a booking, create an account on Alfrey, our booking portal, [here](https://book.alfrey.org.uk).
+
 # Why do you have a GitHub Page?
 
 We have an in-house booking management solution. As a result, we use GitHub to host our private repositories and manage our codebase.
